@@ -1,8 +1,13 @@
 body {
-    background:#1e1e2f
+    background:#ffffff;
 }
       h1 { 
-  color: #ffffff; 
+  color: #1e1e21;
   font-size: 48px;
   text-shadow: 2px 2px 8px black;
+}
+p {
+    color: #1e1e21;
+     font-size: 24px;
+      text-shadow: 1px 1px 4px black;
 }
